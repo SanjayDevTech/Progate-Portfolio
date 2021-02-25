@@ -1,0 +1,36 @@
+.profile {
+  border-radius: 50%;
+  width: 70%;
+}
+
+.social {
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  padding: 8px;
+}
+
+.social:hover {
+  color: grey;
+}
+
+.github {
+  background-color: black;
+}
+
+.linkedin {
+  background-color: blue;
+}
+
+.welcome:hover {
+  box-shadow: 4px;
+}
+
+.title {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.project-title {
+  font-size: large;
+  font-weight: bold;
+}
